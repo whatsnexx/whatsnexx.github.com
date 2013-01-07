@@ -28,9 +28,9 @@
  * [8.3 TicketBusClient.RemoveAllSubjects Method](https://github.com/whatsnexx/Whatsnexx/wiki/8.3-TicketBusClient.RemoveAllSubjects-Method)
  * [8.4 TicketBusClient.SendEvent Method](https://github.com/whatsnexx/Whatsnexx/wiki/8.4-TicketBusClient.SendEvent-Method)
  * [8.5 TicketBusClient.BatchSendEvent Method](https://github.com/whatsnexx/Whatsnexx/wiki/8.5-TicketBusClient.BatchSendEvent-Method)
- * [[8.6 TicketBusClient.BroadcastEvent Method]]
-* [[9. TicketBusAddSubject Class]]
-* [[10. TicketBusBroadcastEvent Class]]
-* [[11. TicketBusSendEvent Class]]
-* [[12. TicketBusResponse Class]]
-* [[13. TraceItem Class]]
+ * [8.6 TicketBusClient.BroadcastEvent Method](https://github.com/whatsnexx/Whatsnexx/wiki/8.6-TicketBusClient.BroadcastEvent-Method)
+* [9. TicketBusAddSubject Class](https://github.com/whatsnexx/Whatsnexx/wiki/9.-TicketBusAddSubject-Class)
+* [10. TicketBusBroadcastEvent Class](https://github.com/whatsnexx/Whatsnexx/wiki/10.-TicketBusBroadcastEvent-Class)
+* [11. TicketBusSendEvent Class](https://github.com/whatsnexx/Whatsnexx/wiki/11.-TicketBusSendEvent-Class)
+* [12. TicketBusResponse Class](https://github.com/whatsnexx/Whatsnexx/wiki/12.-TicketBusResponse-Class)
+* [13. TraceItem Class](https://github.com/whatsnexx/Whatsnexx/wiki/13.-TraceItem-Class)
