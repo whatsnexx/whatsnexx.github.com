@@ -1,6 +1,7 @@
 <br/>![Whatsnexx](http://whatsnexx.com/wp-content/themes/whatsnexx/img/logo.png)<br/>
 <font size="3"><i>whatsnexx API Documentation</i></font></div>
-## <a name="contents"></a>
+<br/><br/>
+## <a name="contents"></a>Table of Contents
 * [1. Getting Started](https://github.com/whatsnexx/Whatsnexx/wiki/1.-Getting-Started)
  * [1.1 Introducing the API](https://github.com/whatsnexx/Whatsnexx/wiki/1.-Getting-Started#wiki-1.1)
  * [1.2 Encoding](https://github.com/whatsnexx/Whatsnexx/wiki/1.-Getting-Started#wiki-1.2)
