@@ -35,8 +35,9 @@
 
 
 ##Send Event Examples
-[Send Event with C#](#) Under construction
-[Send Event with Java](#) Under construction
-[Send Event with PHP](#) Under construction
-[Send Event with AJAX](#) Under construction
+
+* [Send Event with C#](#) **Under construction**
+* [Send Event with Java](#) **Under construction**
+* [Send Event with PHP](#) **Under construction**
+* [Send Event with AJAX](#) **Under construction**
 
