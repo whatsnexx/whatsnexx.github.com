@@ -16,7 +16,7 @@
  * [4.1 SOAP](https://github.com/whatsnexx/Whatsnexx/wiki/4.-Request-Format#wiki-4.1)
  * [4.2 REST](https://github.com/whatsnexx/Whatsnexx/wiki/4.-Request-Format#wiki-4.2)
 * [5. Response Format](https://github.com/whatsnexx/Whatsnexx/wiki/5.-Response-Format)
-* [6. API Kits] (#)
+* [6. API Kits (Contact Whatsnexx team)] (#)
 * [7. Ticket Bus Introduction](https://github.com/whatsnexx/Whatsnexx/wiki/7.-Ticket-Bus-Introduction)
  * [7.1 Subject Type](https://github.com/whatsnexx/Whatsnexx/wiki/7.-Ticket-Bus-Introduction#wiki-7.1)
  * [7.2 Add Subject](https://github.com/whatsnexx/Whatsnexx/wiki/7.-Ticket-Bus-Introduction#wiki-7.2)
