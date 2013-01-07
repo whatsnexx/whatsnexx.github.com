@@ -30,7 +30,9 @@
  * [8.5 TicketBusClient.BatchSendEvent Method](https://github.com/whatsnexx/whatsnexx.github.com/wiki/8.5-TicketBusClient.BatchSendEvent-Method)
  * [8.6 TicketBusClient.BroadcastEvent Method](https://github.com/whatsnexx/whatsnexx.github.com/wiki/8.6-TicketBusClient.BroadcastEvent-Method)
 * [9. TicketBusAddSubject Class](https://github.com/whatsnexx/whatsnexx.github.com/wiki/9.-TicketBusAddSubject-Class)
-* [[10. TicketBusBroadcastEvent Class]]
-* [[11. TicketBusSendEvent Class]]
-* [[12. TicketBusResponse Class]]
-* [[13. TraceItem Class]]
+* [10. TicketBusBroadcastEvent Class](https://github.com/whatsnexx/whatsnexx.github.com/wiki/10.-TicketBusBroadcastEvent-Class)
+* [11. TicketBusSendEvent Class](https://github.com/whatsnexx/whatsnexx.github.com/wiki/11.-TicketBusSendEvent-Class)
+* [12. TicketBusResponse Class](https://github.com/whatsnexx/whatsnexx.github.com/wiki/12.-TicketBusResponse-Class)
+* [13. TraceItem Class](https://github.com/whatsnexx/whatsnexx.github.com/wiki/13.-TraceItem-Class)
+* [14. Test Your Integration](https://github.com/whatsnexx/whatsnexx.github.com/wiki/9.-Test-Your-Integration)
+* [Glossary](https://github.com/whatsnexx/whatsnexx.github.com/wiki/Glossary)
