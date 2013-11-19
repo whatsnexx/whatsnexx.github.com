@@ -1,4 +1,4 @@
-<br/><h1>WhatsNexx</h1><br/>
+<br/><h2>WhatsNexx</h2><br/>
 <font size="3"><i>whatsnexx API Documentation</i></font></div>
 ## <a name="contents"></a>
 * [1. Getting Started](https://github.com/whatsnexx/whatsnexx.github.com/wiki/1.-Getting-Started)
