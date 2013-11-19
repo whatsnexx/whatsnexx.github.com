@@ -1,4 +1,4 @@
-<br/>![Whatsnexx](http://whatsnexx.com/wp-content/themes/whatsnexx/img/logo.png)<br/>
+<br/><h1>WhatsNexx</h1><br/>
 <font size="3"><i>whatsnexx API Documentation</i></font></div>
 ## <a name="contents"></a>
 * [1. Getting Started](https://github.com/whatsnexx/whatsnexx.github.com/wiki/1.-Getting-Started)
