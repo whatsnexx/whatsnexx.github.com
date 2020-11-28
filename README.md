@@ -1,5 +1,5 @@
-<h3>WhatsNexx API Documentation</h3>
-## <a name="contents"></a>
+### WhatsNexx API Documentation
+
 * [1. Getting Started](https://github.com/whatsnexx/whatsnexx.github.com/wiki/1.-Getting-Started)
  * [1.1 Introducing the API](https://github.com/whatsnexx/whatsnexx.github.com/wiki/1.-Getting-Started#wiki-1.1)
  * [1.2 Encoding](https://github.com/whatsnexx/whatsnexx.github.com/wiki/1.-Getting-Started#wiki-1.2)
